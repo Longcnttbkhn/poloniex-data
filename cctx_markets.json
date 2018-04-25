@@ -1,0 +1,4061 @@
+[
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "OMG",
+        "id": "BTC_OMG",
+        "info": {
+            "last": "0.00185015",
+            "isFrozen": "0",
+            "high24hr": "0.00205550",
+            "low24hr": "0.00174109",
+            "highestBid": "0.00185000",
+            "quoteVolume": "113644.50977494",
+            "id": 196,
+            "lowestAsk": "0.00185015",
+            "percentChange": "0.04376107",
+            "baseVolume": "216.57880440"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "OMG/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "STEEM",
+        "id": "BTC_STEEM",
+        "info": {
+            "last": "0.00032002",
+            "isFrozen": "0",
+            "high24hr": "0.00034000",
+            "low24hr": "0.00031174",
+            "highestBid": "0.00031709",
+            "quoteVolume": "111318.81004847",
+            "id": 168,
+            "lowestAsk": "0.00031921",
+            "percentChange": "-0.03223660",
+            "baseVolume": "35.77472325"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "STEEM/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "ZEC",
+        "id": "BTC_ZEC",
+        "info": {
+            "last": "0.03256587",
+            "isFrozen": "0",
+            "high24hr": "0.03499999",
+            "low24hr": "0.03256587",
+            "highestBid": "0.03256499",
+            "quoteVolume": "7962.53341914",
+            "id": 178,
+            "lowestAsk": "0.03256586",
+            "percentChange": "-0.03108161",
+            "baseVolume": "268.12088572"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "ZEC/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "SYS",
+        "id": "BTC_SYS",
+        "info": {
+            "last": "0.00005918",
+            "isFrozen": "0",
+            "high24hr": "0.00005995",
+            "low24hr": "0.00005616",
+            "highestBid": "0.00005918",
+            "quoteVolume": "507223.29127987",
+            "id": 92,
+            "lowestAsk": "0.00005920",
+            "percentChange": "0.02600554",
+            "baseVolume": "29.48142958"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "SYS/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "NXT",
+        "id": "BTC_NXT",
+        "info": {
+            "last": "0.00002316",
+            "isFrozen": "0",
+            "high24hr": "0.00002470",
+            "low24hr": "0.00002230",
+            "highestBid": "0.00002315",
+            "quoteVolume": "4005893.31824457",
+            "id": 69,
+            "lowestAsk": "0.00002316",
+            "percentChange": "0.02206531",
+            "baseVolume": "93.62781741"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "NXT/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "BTCD",
+        "id": "XMR_BTCD",
+        "info": {
+            "last": "0.34304742",
+            "isFrozen": "0",
+            "high24hr": "0.36708504",
+            "low24hr": "0.32226722",
+            "highestBid": "0.34304751",
+            "quoteVolume": "8.93469986",
+            "id": 131,
+            "lowestAsk": "0.35130284",
+            "percentChange": "0.02084865",
+            "baseVolume": "3.11220136"
+        },
+        "taker": 0.0025,
+        "quote": "XMR",
+        "active": true,
+        "symbol": "BTCD/XMR",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "DCR",
+        "id": "BTC_DCR",
+        "info": {
+            "last": "0.00764593",
+            "isFrozen": "0",
+            "high24hr": "0.00834780",
+            "low24hr": "0.00728000",
+            "highestBid": "0.00772332",
+            "quoteVolume": "14239.51769531",
+            "id": 162,
+            "lowestAsk": "0.00773180",
+            "percentChange": "0.03238834",
+            "baseVolume": "112.85990682"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "DCR/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "GNT",
+        "id": "BTC_GNT",
+        "info": {
+            "last": "0.00006350",
+            "isFrozen": "0",
+            "high24hr": "0.00006677",
+            "low24hr": "0.00006350",
+            "highestBid": "0.00006350",
+            "quoteVolume": "1207288.17184170",
+            "id": 185,
+            "lowestAsk": "0.00006382",
+            "percentChange": "-0.02756508",
+            "baseVolume": "78.87623377"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "GNT/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "OMG",
+        "id": "ETH_OMG",
+        "info": {
+            "last": "0.02549103",
+            "isFrozen": "0",
+            "high24hr": "0.02654432",
+            "low24hr": "0.02389003",
+            "highestBid": "0.02547473",
+            "quoteVolume": "8289.35558790",
+            "id": 197,
+            "lowestAsk": "0.02572663",
+            "percentChange": "0.04254039",
+            "baseVolume": "211.93259178"
+        },
+        "taker": 0.0025,
+        "quote": "ETH",
+        "active": true,
+        "symbol": "OMG/ETH",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "ETH",
+        "id": "USDT_ETH",
+        "info": {
+            "last": "699.99427127",
+            "isFrozen": "0",
+            "high24hr": "713.33616717",
+            "low24hr": "645.54573402",
+            "highestBid": "698.08273419",
+            "quoteVolume": "16210.58196352",
+            "id": 149,
+            "lowestAsk": "700.25513791",
+            "percentChange": "0.08193625",
+            "baseVolume": "11203738.83482041"
+        },
+        "taker": 0.0025,
+        "quote": "USDT",
+        "active": true,
+        "symbol": "ETH/USDT",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "PINK",
+        "id": "BTC_PINK",
+        "info": {
+            "last": "0.00000273",
+            "isFrozen": "0",
+            "high24hr": "0.00000288",
+            "low24hr": "0.00000269",
+            "highestBid": "0.00000269",
+            "quoteVolume": "2869000.02266200",
+            "id": 73,
+            "lowestAsk": "0.00000272",
+            "percentChange": "-0.02846975",
+            "baseVolume": "7.86638455"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "PINK/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "ZRX",
+        "id": "BTC_ZRX",
+        "info": {
+            "last": "0.00011919",
+            "isFrozen": "0",
+            "high24hr": "0.00012452",
+            "low24hr": "0.00010996",
+            "highestBid": "0.00011859",
+            "quoteVolume": "1426752.54068309",
+            "id": 192,
+            "lowestAsk": "0.00011934",
+            "percentChange": "0.07108195",
+            "baseVolume": "170.51047629"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "ZRX/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "BLK",
+        "id": "BTC_BLK",
+        "info": {
+            "last": "0.00003417",
+            "isFrozen": "0",
+            "high24hr": "0.00003600",
+            "low24hr": "0.00003386",
+            "highestBid": "0.00003417",
+            "quoteVolume": "110500.61386323",
+            "id": 10,
+            "lowestAsk": "0.00003447",
+            "percentChange": "-0.02119736",
+            "baseVolume": "3.83353367"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "BLK/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "ETC",
+        "id": "ETH_ETC",
+        "info": {
+            "last": "0.03155698",
+            "isFrozen": "0",
+            "high24hr": "0.03239756",
+            "low24hr": "0.03057010",
+            "highestBid": "0.03121930",
+            "quoteVolume": "5761.61165261",
+            "id": 172,
+            "lowestAsk": "0.03155698",
+            "percentChange": "-0.01208063",
+            "baseVolume": "181.42886320"
+        },
+        "taker": 0.0025,
+        "quote": "ETH",
+        "active": true,
+        "symbol": "ETC/ETH",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "BTCD",
+        "id": "BTC_BTCD",
+        "info": {
+            "last": "0.01056737",
+            "isFrozen": "0",
+            "high24hr": "0.01151000",
+            "low24hr": "0.01016827",
+            "highestBid": "0.01056737",
+            "quoteVolume": "523.62565906",
+            "id": 12,
+            "lowestAsk": "0.01068456",
+            "percentChange": "0.02761440",
+            "baseVolume": "5.69431397"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "BTCD/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "VRC",
+        "id": "BTC_VRC",
+        "info": {
+            "last": "0.00007565",
+            "isFrozen": "0",
+            "high24hr": "0.00008094",
+            "low24hr": "0.00007511",
+            "highestBid": "0.00007565",
+            "quoteVolume": "90210.68745002",
+            "id": 99,
+            "lowestAsk": "0.00007600",
+            "percentChange": "-0.06489493",
+            "baseVolume": "6.99873401"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "VRC/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "RADS",
+        "id": "BTC_RADS",
+        "info": {
+            "last": "0.00058511",
+            "isFrozen": "0",
+            "high24hr": "0.00059200",
+            "low24hr": "0.00055902",
+            "highestBid": "0.00058212",
+            "quoteVolume": "2340.41962591",
+            "id": 158,
+            "lowestAsk": "0.00058511",
+            "percentChange": "0.00947172",
+            "baseVolume": "1.35887639"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "RADS/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "BCN",
+        "id": "BTC_BCN",
+        "info": {
+            "last": "0.00000058",
+            "isFrozen": "0",
+            "high24hr": "0.00000059",
+            "low24hr": "0.00000056",
+            "highestBid": "0.00000057",
+            "quoteVolume": "113609576.12709121",
+            "id": 7,
+            "lowestAsk": "0.00000058",
+            "percentChange": "0.01754385",
+            "baseVolume": "65.16867983"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "BCN/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "BCH",
+        "id": "ETH_BCH",
+        "info": {
+            "last": "1.99985888",
+            "isFrozen": "0",
+            "high24hr": "2.33355500",
+            "low24hr": "1.98030152",
+            "highestBid": "1.99985888",
+            "quoteVolume": "427.03052842",
+            "id": 190,
+            "lowestAsk": "2.00820000",
+            "percentChange": "-0.11687083",
+            "baseVolume": "912.91217509"
+        },
+        "taker": 0.0025,
+        "quote": "ETH",
+        "active": true,
+        "symbol": "BCH/ETH",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "GAME",
+        "id": "BTC_GAME",
+        "info": {
+            "last": "0.00020140",
+            "isFrozen": "0",
+            "high24hr": "0.00021808",
+            "low24hr": "0.00019738",
+            "highestBid": "0.00020000",
+            "quoteVolume": "806982.61542676",
+            "id": 38,
+            "lowestAsk": "0.00020139",
+            "percentChange": "-0.01129111",
+            "baseVolume": "167.45179900"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "GAME/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "STORJ",
+        "id": "BTC_STORJ",
+        "info": {
+            "last": "0.00012497",
+            "isFrozen": "0",
+            "high24hr": "0.00013292",
+            "low24hr": "0.00012300",
+            "highestBid": "0.00012451",
+            "quoteVolume": "134773.30686145",
+            "id": 200,
+            "lowestAsk": "0.00012486",
+            "percentChange": "-0.01637150",
+            "baseVolume": "17.16156026"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "STORJ/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "ETC",
+        "id": "BTC_ETC",
+        "info": {
+            "last": "0.00228240",
+            "isFrozen": "0",
+            "high24hr": "0.00240999",
+            "low24hr": "0.00226207",
+            "highestBid": "0.00228000",
+            "quoteVolume": "116322.53800983",
+            "id": 171,
+            "lowestAsk": "0.00228240",
+            "percentChange": "-0.01411188",
+            "baseVolume": "270.95363846"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "ETC/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "ZEC",
+        "id": "USDT_ZEC",
+        "info": {
+            "last": "315.99999945",
+            "isFrozen": "0",
+            "high24hr": "330.32207308",
+            "low24hr": "297.87194947",
+            "highestBid": "314.52000022",
+            "quoteVolume": "4584.84757054",
+            "id": 180,
+            "lowestAsk": "315.99999900",
+            "percentChange": "0.05333333",
+            "baseVolume": "1438508.52810270"
+        },
+        "taker": 0.0025,
+        "quote": "USDT",
+        "active": true,
+        "symbol": "ZEC/USDT",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "VIA",
+        "id": "BTC_VIA",
+        "info": {
+            "last": "0.00027316",
+            "isFrozen": "0",
+            "high24hr": "0.00028070",
+            "low24hr": "0.00026379",
+            "highestBid": "0.00027107",
+            "quoteVolume": "36982.23790784",
+            "id": 97,
+            "lowestAsk": "0.00027285",
+            "percentChange": "-0.00647413",
+            "baseVolume": "10.10547212"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "VIA/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "DASH",
+        "id": "BTC_DASH",
+        "info": {
+            "last": "0.05423402",
+            "isFrozen": "0",
+            "high24hr": "0.05862771",
+            "low24hr": "0.05401856",
+            "highestBid": "0.05423402",
+            "quoteVolume": "6080.28584216",
+            "id": 24,
+            "lowestAsk": "0.05460682",
+            "percentChange": "-0.05251222",
+            "baseVolume": "344.93124569"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "DASH/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "STRAT",
+        "id": "BTC_STRAT",
+        "info": {
+            "last": "0.00068489",
+            "isFrozen": "0",
+            "high24hr": "0.00072000",
+            "low24hr": "0.00067219",
+            "highestBid": "0.00068266",
+            "quoteVolume": "91452.33621317",
+            "id": 182,
+            "lowestAsk": "0.00068489",
+            "percentChange": "-0.00323092",
+            "baseVolume": "64.04791918"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "STRAT/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "Bitmark",
+        "id": "BTC_BTM",
+        "info": {
+            "last": "0.00007278",
+            "isFrozen": "0",
+            "high24hr": "0.00007452",
+            "low24hr": "0.00006848",
+            "highestBid": "0.00007278",
+            "quoteVolume": "75940.36280142",
+            "id": 13,
+            "lowestAsk": "0.00007308",
+            "percentChange": "0.03689984",
+            "baseVolume": "5.44530645"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "Bitmark/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "FLO",
+        "id": "BTC_FLO",
+        "info": {
+            "last": "0.00001285",
+            "isFrozen": "0",
+            "high24hr": "0.00001464",
+            "low24hr": "0.00001274",
+            "highestBid": "0.00001285",
+            "quoteVolume": "789264.87230171",
+            "id": 32,
+            "lowestAsk": "0.00001301",
+            "percentChange": "-0.04744255",
+            "baseVolume": "10.70119231"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "FLO/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "XLM",
+        "id": "BTC_STR",
+        "info": {
+            "last": "0.00004049",
+            "isFrozen": "0",
+            "high24hr": "0.00004326",
+            "low24hr": "0.00004049",
+            "highestBid": "0.00004043",
+            "quoteVolume": "12897717.23048984",
+            "id": 89,
+            "lowestAsk": "0.00004049",
+            "percentChange": "-0.02621452",
+            "baseVolume": "542.18984530"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "XLM/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "SBD",
+        "id": "BTC_SBD",
+        "info": {
+            "last": "0.00032101",
+            "isFrozen": "0",
+            "high24hr": "0.00036000",
+            "low24hr": "0.00032040",
+            "highestBid": "0.00032041",
+            "quoteVolume": "18479.77420297",
+            "id": 170,
+            "lowestAsk": "0.00032201",
+            "percentChange": "-0.03889221",
+            "baseVolume": "6.17871790"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "SBD/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "MAID",
+        "id": "XMR_MAID",
+        "info": {
+            "last": "0.00138371",
+            "isFrozen": "0",
+            "high24hr": "0.00139432",
+            "low24hr": "0.00133961",
+            "highestBid": "0.00138376",
+            "quoteVolume": "684.85949604",
+            "id": 138,
+            "lowestAsk": "0.00139432",
+            "percentChange": "0.02176128",
+            "baseVolume": "0.93694525"
+        },
+        "taker": 0.0025,
+        "quote": "XMR",
+        "active": true,
+        "symbol": "MAID/XMR",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "GNO",
+        "id": "BTC_GNO",
+        "info": {
+            "last": "0.01149654",
+            "isFrozen": "0",
+            "high24hr": "0.01217655",
+            "low24hr": "0.01149654",
+            "highestBid": "0.01149654",
+            "quoteVolume": "702.51790619",
+            "id": 187,
+            "lowestAsk": "0.01161151",
+            "percentChange": "-0.05584586",
+            "baseVolume": "8.30932280"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "GNO/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "STEEM",
+        "id": "ETH_STEEM",
+        "info": {
+            "last": "0.00435542",
+            "isFrozen": "0",
+            "high24hr": "0.00458865",
+            "low24hr": "0.00416002",
+            "highestBid": "0.00432950",
+            "quoteVolume": "7383.90207736",
+            "id": 169,
+            "lowestAsk": "0.00437288",
+            "percentChange": "-0.05082344",
+            "baseVolume": "32.20697183"
+        },
+        "taker": 0.0025,
+        "quote": "ETH",
+        "active": true,
+        "symbol": "STEEM/ETH",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "SC",
+        "id": "BTC_SC",
+        "info": {
+            "last": "0.00000226",
+            "isFrozen": "0",
+            "high24hr": "0.00000239",
+            "low24hr": "0.00000220",
+            "highestBid": "0.00000226",
+            "quoteVolume": "159300678.49418914",
+            "id": 150,
+            "lowestAsk": "0.00000228",
+            "percentChange": "-0.02164502",
+            "baseVolume": "365.25338488"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "SC/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "FLDC",
+        "id": "BTC_FLDC",
+        "info": {
+            "last": "0.00000255",
+            "isFrozen": "0",
+            "high24hr": "0.00000263",
+            "low24hr": "0.00000235",
+            "highestBid": "0.00000255",
+            "quoteVolume": "3038174.70635861",
+            "id": 31,
+            "lowestAsk": "0.00000259",
+            "percentChange": "0.06694560",
+            "baseVolume": "7.61613259"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "FLDC/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "PASC",
+        "id": "BTC_PASC",
+        "info": {
+            "last": "0.00012198",
+            "isFrozen": "0",
+            "high24hr": "0.00012550",
+            "low24hr": "0.00011500",
+            "highestBid": "0.00012198",
+            "quoteVolume": "102181.62449815",
+            "id": 184,
+            "lowestAsk": "0.00012289",
+            "percentChange": "0.03513238",
+            "baseVolume": "12.27698131"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "PASC/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "NXT",
+        "id": "USDT_NXT",
+        "info": {
+            "last": "0.22450982",
+            "isFrozen": "0",
+            "high24hr": "0.23386409",
+            "low24hr": "0.20103702",
+            "highestBid": "0.22400000",
+            "quoteVolume": "6438214.89828966",
+            "id": 124,
+            "lowestAsk": "0.22450982",
+            "percentChange": "0.11123126",
+            "baseVolume": "1396131.18412603"
+        },
+        "taker": 0.0025,
+        "quote": "USDT",
+        "active": true,
+        "symbol": "NXT/USDT",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "REP",
+        "id": "USDT_REP",
+        "info": {
+            "last": "44.78983543",
+            "isFrozen": "0",
+            "high24hr": "46.49999999",
+            "low24hr": "41.73499764",
+            "highestBid": "44.70512102",
+            "quoteVolume": "6426.16869815",
+            "id": 175,
+            "lowestAsk": "44.78983543",
+            "percentChange": "0.06759137",
+            "baseVolume": "285951.28747892"
+        },
+        "taker": 0.0025,
+        "quote": "USDT",
+        "active": true,
+        "symbol": "REP/USDT",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "NXT",
+        "id": "XMR_NXT",
+        "info": {
+            "last": "0.00078551",
+            "isFrozen": "0",
+            "high24hr": "0.00078551",
+            "low24hr": "0.00071536",
+            "highestBid": "0.00077082",
+            "quoteVolume": "8377.48521446",
+            "id": 140,
+            "lowestAsk": "0.00078628",
+            "percentChange": "0.08796398",
+            "baseVolume": "6.16654741"
+        },
+        "taker": 0.0025,
+        "quote": "XMR",
+        "active": true,
+        "symbol": "NXT/XMR",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "XEM",
+        "id": "BTC_XEM",
+        "info": {
+            "last": "0.00004519",
+            "isFrozen": "0",
+            "high24hr": "0.00004595",
+            "low24hr": "0.00004359",
+            "highestBid": "0.00004514",
+            "quoteVolume": "3618786.64109631",
+            "id": 112,
+            "lowestAsk": "0.00004523",
+            "percentChange": "0.02332427",
+            "baseVolume": "160.88171378"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "XEM/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "LTC",
+        "id": "XMR_LTC",
+        "info": {
+            "last": "0.56402860",
+            "isFrozen": "0",
+            "high24hr": "0.56572416",
+            "low24hr": "0.54121330",
+            "highestBid": "0.56402860",
+            "quoteVolume": "54.24151815",
+            "id": 137,
+            "lowestAsk": "0.56402863",
+            "percentChange": "0.01685096",
+            "baseVolume": "30.11338041"
+        },
+        "taker": 0.0025,
+        "quote": "XMR",
+        "active": true,
+        "symbol": "LTC/XMR",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "REP",
+        "id": "ETH_REP",
+        "info": {
+            "last": "0.06492058",
+            "isFrozen": "0",
+            "high24hr": "0.06675589",
+            "low24hr": "0.06363152",
+            "highestBid": "0.06370000",
+            "quoteVolume": "591.94904428",
+            "id": 176,
+            "lowestAsk": "0.06491963",
+            "percentChange": "-0.00651634",
+            "baseVolume": "38.38483192"
+        },
+        "taker": 0.0025,
+        "quote": "ETH",
+        "active": true,
+        "symbol": "REP/ETH",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "LBC",
+        "id": "BTC_LBC",
+        "info": {
+            "last": "0.00003454",
+            "isFrozen": "0",
+            "high24hr": "0.00003500",
+            "low24hr": "0.00003390",
+            "highestBid": "0.00003437",
+            "quoteVolume": "246430.60357847",
+            "id": 167,
+            "lowestAsk": "0.00003454",
+            "percentChange": "0.01767825",
+            "baseVolume": "8.48363358"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "LBC/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "MAID",
+        "id": "BTC_MAID",
+        "info": {
+            "last": "0.00004202",
+            "isFrozen": "0",
+            "high24hr": "0.00004426",
+            "low24hr": "0.00004200",
+            "highestBid": "0.00004200",
+            "quoteVolume": "900072.55077180",
+            "id": 51,
+            "lowestAsk": "0.00004202",
+            "percentChange": "-0.00614947",
+            "baseVolume": "38.51218635"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "MAID/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "BLK",
+        "id": "XMR_BLK",
+        "info": {
+            "last": "0.00113238",
+            "isFrozen": "0",
+            "high24hr": "0.00121267",
+            "low24hr": "0.00103896",
+            "highestBid": "0.00108982",
+            "quoteVolume": "5379.50939108",
+            "id": 130,
+            "lowestAsk": "0.00113238",
+            "percentChange": "0.01135155",
+            "baseVolume": "5.91229946"
+        },
+        "taker": 0.0025,
+        "quote": "XMR",
+        "active": true,
+        "symbol": "BLK/XMR",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "XVC",
+        "id": "BTC_XVC",
+        "info": {
+            "last": "0.00004031",
+            "isFrozen": "0",
+            "high24hr": "0.00004284",
+            "low24hr": "0.00003916",
+            "highestBid": "0.00003970",
+            "quoteVolume": "113003.19618098",
+            "id": 98,
+            "lowestAsk": "0.00004031",
+            "percentChange": "0.02936670",
+            "baseVolume": "4.60750272"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "XVC/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "DASH",
+        "id": "USDT_DASH",
+        "info": {
+            "last": "526.50000000",
+            "isFrozen": "0",
+            "high24hr": "544.00000000",
+            "low24hr": "509.35630090",
+            "highestBid": "526.50000000",
+            "quoteVolume": "2657.56230065",
+            "id": 122,
+            "lowestAsk": "527.98870975",
+            "percentChange": "0.03001801",
+            "baseVolume": "1414315.73420940"
+        },
+        "taker": 0.0025,
+        "quote": "USDT",
+        "active": true,
+        "symbol": "DASH/USDT",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "CLAM",
+        "id": "BTC_CLAM",
+        "info": {
+            "last": "0.00052411",
+            "isFrozen": "0",
+            "high24hr": "0.00054331",
+            "low24hr": "0.00050640",
+            "highestBid": "0.00052412",
+            "quoteVolume": "17806.75169434",
+            "id": 20,
+            "lowestAsk": "0.00052753",
+            "percentChange": "0.02161709",
+            "baseVolume": "9.29359219"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "CLAM/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "NEOS",
+        "id": "BTC_NEOS",
+        "info": {
+            "last": "0.00039102",
+            "isFrozen": "0",
+            "high24hr": "0.00040632",
+            "low24hr": "0.00036004",
+            "highestBid": "0.00038400",
+            "quoteVolume": "10940.26832542",
+            "id": 63,
+            "lowestAsk": "0.00039791",
+            "percentChange": "0.03545798",
+            "baseVolume": "4.16120266"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "NEOS/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "GAS",
+        "id": "BTC_GAS",
+        "info": {
+            "last": "0.00315830",
+            "isFrozen": "0",
+            "high24hr": "0.00331671",
+            "low24hr": "0.00310160",
+            "highestBid": "0.00311748",
+            "quoteVolume": "4009.86016416",
+            "id": 198,
+            "lowestAsk": "0.00314800",
+            "percentChange": "0.00043713",
+            "baseVolume": "12.77912704"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "GAS/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "POT",
+        "id": "BTC_POT",
+        "info": {
+            "last": "0.00001451",
+            "isFrozen": "0",
+            "high24hr": "0.00001578",
+            "low24hr": "0.00001418",
+            "highestBid": "0.00001452",
+            "quoteVolume": "1575290.10270899",
+            "id": 74,
+            "lowestAsk": "0.00001468",
+            "percentChange": "-0.08048162",
+            "baseVolume": "23.17095621"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "POT/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "OMNI",
+        "id": "BTC_OMNI",
+        "info": {
+            "last": "0.00414110",
+            "isFrozen": "0",
+            "high24hr": "0.00443979",
+            "low24hr": "0.00345700",
+            "highestBid": "0.00408024",
+            "quoteVolume": "43714.90698376",
+            "id": 58,
+            "lowestAsk": "0.00414110",
+            "percentChange": "-0.06727570",
+            "baseVolume": "170.60808980"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "OMNI/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "BCH",
+        "id": "BTC_BCH",
+        "info": {
+            "last": "0.14534964",
+            "isFrozen": "0",
+            "high24hr": "0.17000000",
+            "low24hr": "0.14435000",
+            "highestBid": "0.14454000",
+            "quoteVolume": "10256.86901007",
+            "id": 189,
+            "lowestAsk": "0.14533999",
+            "percentChange": "-0.11220541",
+            "baseVolume": "1644.95603113"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "BCH/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "ZEC",
+        "id": "ETH_ZEC",
+        "info": {
+            "last": "0.44805555",
+            "isFrozen": "0",
+            "high24hr": "0.46622635",
+            "low24hr": "0.44001000",
+            "highestBid": "0.44805555",
+            "quoteVolume": "244.37554229",
+            "id": 179,
+            "lowestAsk": "0.44939971",
+            "percentChange": "-0.03897420",
+            "baseVolume": "110.84693524"
+        },
+        "taker": 0.0025,
+        "quote": "ETH",
+        "active": true,
+        "symbol": "ZEC/ETH",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "XLM",
+        "id": "USDT_STR",
+        "info": {
+            "last": "0.39365037",
+            "isFrozen": "0",
+            "high24hr": "0.40921846",
+            "low24hr": "0.37200000",
+            "highestBid": "0.39365037",
+            "quoteVolume": "8206494.35706880",
+            "id": 125,
+            "lowestAsk": "0.39417051",
+            "percentChange": "0.05819991",
+            "baseVolume": "3208536.77787943"
+        },
+        "taker": 0.0025,
+        "quote": "USDT",
+        "active": true,
+        "symbol": "XLM/USDT",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "GAS",
+        "id": "ETH_GAS",
+        "info": {
+            "last": "0.04279044",
+            "isFrozen": "0",
+            "high24hr": "0.04412202",
+            "low24hr": "0.04060883",
+            "highestBid": "0.04279044",
+            "quoteVolume": "290.12764084",
+            "id": 199,
+            "lowestAsk": "0.04341682",
+            "percentChange": "-0.01176059",
+            "baseVolume": "12.41003884"
+        },
+        "taker": 0.0025,
+        "quote": "ETH",
+        "active": true,
+        "symbol": "GAS/ETH",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "XCP",
+        "id": "BTC_XCP",
+        "info": {
+            "last": "0.00216793",
+            "isFrozen": "0",
+            "high24hr": "0.00230000",
+            "low24hr": "0.00215964",
+            "highestBid": "0.00215963",
+            "quoteVolume": "4084.93634825",
+            "id": 108,
+            "lowestAsk": "0.00216793",
+            "percentChange": "-0.04814738",
+            "baseVolume": "9.12815889"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "XCP/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "VTC",
+        "id": "BTC_VTC",
+        "info": {
+            "last": "0.00030012",
+            "isFrozen": "0",
+            "high24hr": "0.00031930",
+            "low24hr": "0.00029131",
+            "highestBid": "0.00029755",
+            "quoteVolume": "83936.94276283",
+            "id": 100,
+            "lowestAsk": "0.00029967",
+            "percentChange": "0.01313168",
+            "baseVolume": "25.66372652"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "VTC/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "ETH",
+        "id": "BTC_ETH",
+        "info": {
+            "last": "0.07228050",
+            "isFrozen": "0",
+            "high24hr": "0.07555000",
+            "low24hr": "0.07180000",
+            "highestBid": "0.07228050",
+            "quoteVolume": "35614.78386541",
+            "id": 148,
+            "lowestAsk": "0.07235502",
+            "percentChange": "0.00215611",
+            "baseVolume": "2640.82231188"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "ETH/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "HUC",
+        "id": "BTC_HUC",
+        "info": {
+            "last": "0.00001848",
+            "isFrozen": "0",
+            "high24hr": "0.00001933",
+            "low24hr": "0.00001547",
+            "highestBid": "0.00001848",
+            "quoteVolume": "159459.73359983",
+            "id": 43,
+            "lowestAsk": "0.00001897",
+            "percentChange": "0.12614259",
+            "baseVolume": "2.72944208"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "HUC/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "ETC",
+        "id": "USDT_ETC",
+        "info": {
+            "last": "21.94799702",
+            "isFrozen": "0",
+            "high24hr": "22.85437668",
+            "low24hr": "20.62562439",
+            "highestBid": "21.94790337",
+            "quoteVolume": "121331.11074437",
+            "id": 173,
+            "lowestAsk": "22.05230315",
+            "percentChange": "0.05593698",
+            "baseVolume": "2636966.37040511"
+        },
+        "taker": 0.0025,
+        "quote": "USDT",
+        "active": true,
+        "symbol": "ETC/USDT",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "RIC",
+        "id": "BTC_RIC",
+        "info": {
+            "last": "0.00001157",
+            "isFrozen": "0",
+            "high24hr": "0.00001276",
+            "low24hr": "0.00001129",
+            "highestBid": "0.00001146",
+            "quoteVolume": "1266901.50036859",
+            "id": 83,
+            "lowestAsk": "0.00001157",
+            "percentChange": "-0.01111111",
+            "baseVolume": "15.15411059"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "RIC/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "BELA",
+        "id": "BTC_BELA",
+        "info": {
+            "last": "0.00001679",
+            "isFrozen": "0",
+            "high24hr": "0.00001800",
+            "low24hr": "0.00001572",
+            "highestBid": "0.00001679",
+            "quoteVolume": "1033549.42992649",
+            "id": 8,
+            "lowestAsk": "0.00001693",
+            "percentChange": "0.04415422",
+            "baseVolume": "17.31794129"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "BELA/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "BTS",
+        "id": "BTC_BTS",
+        "info": {
+            "last": "0.00003051",
+            "isFrozen": "0",
+            "high24hr": "0.00003197",
+            "low24hr": "0.00002979",
+            "highestBid": "0.00003045",
+            "quoteVolume": "6160019.87721555",
+            "id": 14,
+            "lowestAsk": "0.00003051",
+            "percentChange": "0.00826173",
+            "baseVolume": "190.75457242"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "BTS/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "DGB",
+        "id": "BTC_DGB",
+        "info": {
+            "last": "0.00000410",
+            "isFrozen": "0",
+            "high24hr": "0.00000425",
+            "low24hr": "0.00000386",
+            "highestBid": "0.00000409",
+            "quoteVolume": "41626696.23253518",
+            "id": 25,
+            "lowestAsk": "0.00000410",
+            "percentChange": "0.04325699",
+            "baseVolume": "171.05122421"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "DGB/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "BURST",
+        "id": "BTC_BURST",
+        "info": {
+            "last": "0.00000274",
+            "isFrozen": "0",
+            "high24hr": "0.00000294",
+            "low24hr": "0.00000272",
+            "highestBid": "0.00000274",
+            "quoteVolume": "8345450.15505248",
+            "id": 15,
+            "lowestAsk": "0.00000277",
+            "percentChange": "-0.05841924",
+            "baseVolume": "23.78065755"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "BURST/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "XRP",
+        "id": "USDT_XRP",
+        "info": {
+            "last": "0.91963289",
+            "isFrozen": "0",
+            "high24hr": "0.96486858",
+            "low24hr": "0.87361878",
+            "highestBid": "0.91545030",
+            "quoteVolume": "11327495.19083362",
+            "id": 127,
+            "lowestAsk": "0.91963289",
+            "percentChange": "0.05267069",
+            "baseVolume": "10442132.16085109"
+        },
+        "taker": 0.0025,
+        "quote": "USDT",
+        "active": true,
+        "symbol": "XRP/USDT",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "FCT",
+        "id": "BTC_FCT",
+        "info": {
+            "last": "0.00315999",
+            "isFrozen": "0",
+            "high24hr": "0.00353624",
+            "low24hr": "0.00300000",
+            "highestBid": "0.00315974",
+            "quoteVolume": "33841.04868546",
+            "id": 155,
+            "lowestAsk": "0.00315999",
+            "percentChange": "-0.05858537",
+            "baseVolume": "110.95588348"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "FCT/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "XBC",
+        "id": "BTC_XBC",
+        "info": {
+            "last": "0.00654019",
+            "isFrozen": "0",
+            "high24hr": "0.00680000",
+            "low24hr": "0.00636000",
+            "highestBid": "0.00654019",
+            "quoteVolume": "567.76107890",
+            "id": 104,
+            "lowestAsk": "0.00679997",
+            "percentChange": "-0.02296707",
+            "baseVolume": "3.72818279"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "XBC/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "BCN",
+        "id": "XMR_BCN",
+        "info": {
+            "last": "0.00001889",
+            "isFrozen": "0",
+            "high24hr": "0.00001924",
+            "low24hr": "0.00001776",
+            "highestBid": "0.00001886",
+            "quoteVolume": "217988.31249594",
+            "id": 129,
+            "lowestAsk": "0.00001916",
+            "percentChange": "0.06542583",
+            "baseVolume": "4.04639964"
+        },
+        "taker": 0.0025,
+        "quote": "XMR",
+        "active": true,
+        "symbol": "BCN/XMR",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "LSK",
+        "id": "BTC_LSK",
+        "info": {
+            "last": "0.00131556",
+            "isFrozen": "0",
+            "high24hr": "0.00138789",
+            "low24hr": "0.00131536",
+            "highestBid": "0.00131556",
+            "quoteVolume": "97537.59563219",
+            "id": 163,
+            "lowestAsk": "0.00131676",
+            "percentChange": "-0.04838511",
+            "baseVolume": "133.06479699"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "LSK/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "GNO",
+        "id": "ETH_GNO",
+        "info": {
+            "last": "0.15907774",
+            "isFrozen": "0",
+            "high24hr": "0.16995366",
+            "low24hr": "0.15487349",
+            "highestBid": "0.15579854",
+            "quoteVolume": "150.63259614",
+            "id": 188,
+            "lowestAsk": "0.15907774",
+            "percentChange": "-0.05182255",
+            "baseVolume": "24.29755978"
+        },
+        "taker": 0.0025,
+        "quote": "ETH",
+        "active": true,
+        "symbol": "GNO/ETH",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "LTC",
+        "id": "USDT_LTC",
+        "info": {
+            "last": "164.30911047",
+            "isFrozen": "0",
+            "high24hr": "166.29977756",
+            "low24hr": "156.21336580",
+            "highestBid": "163.20455989",
+            "quoteVolume": "22505.18308471",
+            "id": 123,
+            "lowestAsk": "164.14390247",
+            "percentChange": "0.05124190",
+            "baseVolume": "3637984.55362790"
+        },
+        "taker": 0.0025,
+        "quote": "USDT",
+        "active": true,
+        "symbol": "LTC/USDT",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "ZRX",
+        "id": "ETH_ZRX",
+        "info": {
+            "last": "0.00164861",
+            "isFrozen": "0",
+            "high24hr": "0.00168111",
+            "low24hr": "0.00151220",
+            "highestBid": "0.00164861",
+            "quoteVolume": "147833.51783392",
+            "id": 193,
+            "lowestAsk": "0.00165552",
+            "percentChange": "0.05701810",
+            "baseVolume": "235.19412378"
+        },
+        "taker": 0.0025,
+        "quote": "ETH",
+        "active": true,
+        "symbol": "ZRX/ETH",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "XMR",
+        "id": "BTC_XMR",
+        "info": {
+            "last": "0.02996500",
+            "isFrozen": "0",
+            "high24hr": "0.03200000",
+            "low24hr": "0.02996000",
+            "highestBid": "0.02991500",
+            "quoteVolume": "23655.72955664",
+            "id": 114,
+            "lowestAsk": "0.02997000",
+            "percentChange": "-0.04035996",
+            "baseVolume": "734.64223957"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "XMR/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "EXP",
+        "id": "BTC_EXP",
+        "info": {
+            "last": "0.00026449",
+            "isFrozen": "0",
+            "high24hr": "0.00028146",
+            "low24hr": "0.00025870",
+            "highestBid": "0.00026388",
+            "quoteVolume": "34559.13885023",
+            "id": 153,
+            "lowestAsk": "0.00026449",
+            "percentChange": "-0.04142505",
+            "baseVolume": "9.36468870"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "EXP/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "BCH",
+        "id": "USDT_BCH",
+        "info": {
+            "last": "1398.00000000",
+            "isFrozen": "0",
+            "high24hr": "1569.84045517",
+            "low24hr": "1391.50000000",
+            "highestBid": "1398.01000017",
+            "quoteVolume": "6609.15563546",
+            "id": 191,
+            "lowestAsk": "1406.95969465",
+            "percentChange": "-0.04833219",
+            "baseVolume": "9877620.23514158"
+        },
+        "taker": 0.0025,
+        "quote": "USDT",
+        "active": true,
+        "symbol": "BCH/USDT",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "BCY",
+        "id": "BTC_BCY",
+        "info": {
+            "last": "0.00004544",
+            "isFrozen": "0",
+            "high24hr": "0.00004720",
+            "low24hr": "0.00004433",
+            "highestBid": "0.00004543",
+            "quoteVolume": "55912.60552977",
+            "id": 151,
+            "lowestAsk": "0.00004630",
+            "percentChange": "-0.01921001",
+            "baseVolume": "2.56566583"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "BCY/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "DOGE",
+        "id": "BTC_DOGE",
+        "info": {
+            "last": "0.00000061",
+            "isFrozen": "0",
+            "high24hr": "0.00000064",
+            "low24hr": "0.00000060",
+            "highestBid": "0.00000060",
+            "quoteVolume": "288908808.93074626",
+            "id": 27,
+            "lowestAsk": "0.00000061",
+            "percentChange": "-0.04687500",
+            "baseVolume": "178.35670592"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "DOGE/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "CVC",
+        "id": "BTC_CVC",
+        "info": {
+            "last": "0.00004372",
+            "isFrozen": "0",
+            "high24hr": "0.00004640",
+            "low24hr": "0.00004369",
+            "highestBid": "0.00004369",
+            "quoteVolume": "246654.96191779",
+            "id": 194,
+            "lowestAsk": "0.00004372",
+            "percentChange": "-0.05775862",
+            "baseVolume": "11.10013993"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "CVC/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "PPC",
+        "id": "BTC_PPC",
+        "info": {
+            "last": "0.00029138",
+            "isFrozen": "0",
+            "high24hr": "0.00030108",
+            "low24hr": "0.00027950",
+            "highestBid": "0.00028723",
+            "quoteVolume": "14958.31307689",
+            "id": 75,
+            "lowestAsk": "0.00029000",
+            "percentChange": "-0.00857434",
+            "baseVolume": "4.33755000"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "PPC/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "ZEC",
+        "id": "XMR_ZEC",
+        "info": {
+            "last": "1.08976778",
+            "isFrozen": "0",
+            "high24hr": "1.11000029",
+            "low24hr": "1.03752441",
+            "highestBid": "1.07649295",
+            "quoteVolume": "46.42329025",
+            "id": 181,
+            "lowestAsk": "1.08999995",
+            "percentChange": "0.01790381",
+            "baseVolume": "49.52402049"
+        },
+        "taker": 0.0025,
+        "quote": "XMR",
+        "active": true,
+        "symbol": "ZEC/XMR",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "GNT",
+        "id": "ETH_GNT",
+        "info": {
+            "last": "0.00086712",
+            "isFrozen": "0",
+            "high24hr": "0.00091900",
+            "low24hr": "0.00086075",
+            "highestBid": "0.00086739",
+            "quoteVolume": "416488.97182197",
+            "id": 186,
+            "lowestAsk": "0.00088897",
+            "percentChange": "-0.06564372",
+            "baseVolume": "365.50288463"
+        },
+        "taker": 0.0025,
+        "quote": "ETH",
+        "active": true,
+        "symbol": "GNT/ETH",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "LTC",
+        "id": "BTC_LTC",
+        "info": {
+            "last": "0.01695498",
+            "isFrozen": "0",
+            "high24hr": "0.01763000",
+            "low24hr": "0.01688429",
+            "highestBid": "0.01691207",
+            "quoteVolume": "23389.43014731",
+            "id": 50,
+            "lowestAsk": "0.01695495",
+            "percentChange": "-0.03307784",
+            "baseVolume": "405.32331104"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "LTC/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "XPM",
+        "id": "BTC_XPM",
+        "info": {
+            "last": "0.00009360",
+            "isFrozen": "0",
+            "high24hr": "0.00009698",
+            "low24hr": "0.00008802",
+            "highestBid": "0.00009352",
+            "quoteVolume": "1703029.50390179",
+            "id": 116,
+            "lowestAsk": "0.00009357",
+            "percentChange": "0.01705965",
+            "baseVolume": "158.52331150"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "XPM/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "LSK",
+        "id": "ETH_LSK",
+        "info": {
+            "last": "0.01865800",
+            "isFrozen": "0",
+            "high24hr": "0.01924845",
+            "low24hr": "0.01789415",
+            "highestBid": "0.01814681",
+            "quoteVolume": "2286.61654445",
+            "id": 166,
+            "lowestAsk": "0.01859066",
+            "percentChange": "-0.02300734",
+            "baseVolume": "41.97943174"
+        },
+        "taker": 0.0025,
+        "quote": "ETH",
+        "active": true,
+        "symbol": "LSK/ETH",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "REP",
+        "id": "BTC_REP",
+        "info": {
+            "last": "0.00465092",
+            "isFrozen": "0",
+            "high24hr": "0.00494933",
+            "low24hr": "0.00462039",
+            "highestBid": "0.00462656",
+            "quoteVolume": "7494.51856916",
+            "id": 174,
+            "lowestAsk": "0.00464626",
+            "percentChange": "-0.00946677",
+            "baseVolume": "35.92146115"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "REP/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "CVC",
+        "id": "ETH_CVC",
+        "info": {
+            "last": "0.00060449",
+            "isFrozen": "0",
+            "high24hr": "0.00064670",
+            "low24hr": "0.00058077",
+            "highestBid": "0.00060035",
+            "quoteVolume": "47292.49530244",
+            "id": 195,
+            "lowestAsk": "0.00060450",
+            "percentChange": "-0.06242826",
+            "baseVolume": "28.65236523"
+        },
+        "taker": 0.0025,
+        "quote": "ETH",
+        "active": true,
+        "symbol": "CVC/ETH",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "EMC2",
+        "id": "BTC_EMC2",
+        "info": {
+            "last": "0.00003671",
+            "isFrozen": "0",
+            "high24hr": "0.00003847",
+            "low24hr": "0.00003643",
+            "highestBid": "0.00003671",
+            "quoteVolume": "635027.31076644",
+            "id": 28,
+            "lowestAsk": "0.00003697",
+            "percentChange": "-0.01818668",
+            "baseVolume": "23.79215191"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "EMC2/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "AMP",
+        "id": "BTC_AMP",
+        "info": {
+            "last": "0.00003391",
+            "isFrozen": "0",
+            "high24hr": "0.00003551",
+            "low24hr": "0.00003372",
+            "highestBid": "0.00003374",
+            "quoteVolume": "380186.56355789",
+            "id": 160,
+            "lowestAsk": "0.00003391",
+            "percentChange": "-0.03390313",
+            "baseVolume": "13.17026957"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "AMP/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "BTC",
+        "id": "USDT_BTC",
+        "info": {
+            "last": "9660.29539495",
+            "isFrozen": "0",
+            "high24hr": "9729.87993246",
+            "low24hr": "8939.67443546",
+            "highestBid": "9660.29539495",
+            "quoteVolume": "2701.93619967",
+            "id": 121,
+            "lowestAsk": "9666.99999980",
+            "percentChange": "0.07859295",
+            "baseVolume": "25235994.03969157"
+        },
+        "taker": 0.0025,
+        "quote": "USDT",
+        "active": true,
+        "symbol": "BTC/USDT",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "NXC",
+        "id": "BTC_NXC",
+        "info": {
+            "last": "0.00002285",
+            "isFrozen": "0",
+            "high24hr": "0.00002401",
+            "low24hr": "0.00002264",
+            "highestBid": "0.00002286",
+            "quoteVolume": "147326.78518204",
+            "id": 183,
+            "lowestAsk": "0.00002312",
+            "percentChange": "-0.04831320",
+            "baseVolume": "3.45413918"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "NXC/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "GRC",
+        "id": "BTC_GRC",
+        "info": {
+            "last": "0.00000643",
+            "isFrozen": "0",
+            "high24hr": "0.00000688",
+            "low24hr": "0.00000635",
+            "highestBid": "0.00000643",
+            "quoteVolume": "941062.90852962",
+            "id": 40,
+            "lowestAsk": "0.00000650",
+            "percentChange": "-0.00771604",
+            "baseVolume": "6.16894776"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "GRC/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "XMR",
+        "id": "USDT_XMR",
+        "info": {
+            "last": "289.83599961",
+            "isFrozen": "0",
+            "high24hr": "298.00000000",
+            "low24hr": "278.35328313",
+            "highestBid": "289.83599959",
+            "quoteVolume": "4408.77308052",
+            "id": 126,
+            "lowestAsk": "289.99999999",
+            "percentChange": "0.03802254",
+            "baseVolume": "1280170.79469385"
+        },
+        "taker": 0.0025,
+        "quote": "USDT",
+        "active": true,
+        "symbol": "XMR/USDT",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "XRP",
+        "id": "BTC_XRP",
+        "info": {
+            "last": "0.00009481",
+            "isFrozen": "0",
+            "high24hr": "0.00010222",
+            "low24hr": "0.00009457",
+            "highestBid": "0.00009467",
+            "quoteVolume": "20515545.94744101",
+            "id": 117,
+            "lowestAsk": "0.00009481",
+            "percentChange": "-0.02778917",
+            "baseVolume": "2023.98141090"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "XRP/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "ARDR",
+        "id": "BTC_ARDR",
+        "info": {
+            "last": "0.00004252",
+            "isFrozen": "0",
+            "high24hr": "0.00004562",
+            "low24hr": "0.00004200",
+            "highestBid": "0.00004252",
+            "quoteVolume": "546377.08375881",
+            "id": 177,
+            "lowestAsk": "0.00004274",
+            "percentChange": "-0.04191077",
+            "baseVolume": "23.91824593"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "ARDR/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "NMC",
+        "id": "BTC_NMC",
+        "info": {
+            "last": "0.00022163",
+            "isFrozen": "0",
+            "high24hr": "0.00024200",
+            "low24hr": "0.00020907",
+            "highestBid": "0.00022074",
+            "quoteVolume": "32892.44939871",
+            "id": 64,
+            "lowestAsk": "0.00022537",
+            "percentChange": "0.05092702",
+            "baseVolume": "7.29887397"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "NMC/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "DASH",
+        "id": "XMR_DASH",
+        "info": {
+            "last": "1.78621718",
+            "isFrozen": "0",
+            "high24hr": "1.85804633",
+            "low24hr": "1.74218390",
+            "highestBid": "1.78746861",
+            "quoteVolume": "24.96079576",
+            "id": 132,
+            "lowestAsk": "1.82582387",
+            "percentChange": "-0.00268597",
+            "baseVolume": "45.39305950"
+        },
+        "taker": 0.0025,
+        "quote": "XMR",
+        "active": true,
+        "symbol": "DASH/XMR",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    },
+    {
+        "fee_loaded": false,
+        "precision": {
+            "amount": 8,
+            "price": 8
+        },
+        "base": "NAV",
+        "id": "BTC_NAV",
+        "info": {
+            "last": "0.00015450",
+            "isFrozen": "0",
+            "high24hr": "0.00016320",
+            "low24hr": "0.00015238",
+            "highestBid": "0.00015625",
+            "quoteVolume": "66540.22963556",
+            "id": 61,
+            "lowestAsk": "0.00015668",
+            "percentChange": "-0.03642260",
+            "baseVolume": "10.47359645"
+        },
+        "taker": 0.0025,
+        "quote": "BTC",
+        "active": true,
+        "symbol": "NAV/BTC",
+        "limits": {
+            "amount": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "price": {
+                "max": 1000000000,
+                "min": 1e-08
+            },
+            "cost": {
+                "max": 1000000000,
+                "min": 0.0
+            }
+        },
+        "maker": 0.0015,
+        "percentage": true
+    }
+]
