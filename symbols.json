@@ -1,595 +1,595 @@
 {
   "BTC_AMP":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2016-04-13",
     "symbol":"amp_btc"
   },
   "BTC_ARDR":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2016-10-17",
     "symbol":"ardr_btc"
   },
   "BTC_BCH":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2017-08-14",
     "symbol":"bch_btc"
   },
   "BTC_BCN":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-05-20",
     "symbol":"bcn_btc"
   },
   "BTC_BCY":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2015-09-09",
     "symbol":"bcy_btc"
   },
   "BTC_BELA":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-05-14",
     "symbol":"bela_btc"
   },
   "BTC_BLK":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-03-01",
     "symbol":"blk_btc"
   },
   "BTC_BTCD":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-07-24",
     "symbol":"btcd_btc"
   },
   "BTC_BTM":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-07-31",
     "symbol":"btm_btc"
   },
   "BTC_BTS":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-08-16",
     "symbol":"bts_btc"
   },
   "BTC_BURST":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-09-07",
     "symbol":"burst_btc"
   },
   "BTC_CLAM":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-07-05",
     "symbol":"clam_btc"
   },
   "BTC_CVC":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2017-09-10",
     "symbol":"cvc_btc"
   },
   "BTC_DASH":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2015-05-21",
     "symbol":"dash_btc"
   },
   "BTC_DCR":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2016-05-16",
     "symbol":"dcr_btc"
   },
   "BTC_DGB":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2015-02-09",
     "symbol":"dgb_btc"
   },
   "BTC_DOGE":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-01-21",
     "symbol":"doge_btc"
   },
   "BTC_EMC2":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-03-16",
     "symbol":"emc2_btc"
   },
   "BTC_ETC":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2016-07-24",
     "symbol":"etc_btc"
   },
   "BTC_ETH":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2015-08-08",
     "symbol":"eth_btc"
   },
   "BTC_EXP":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2015-09-17",
     "symbol":"exp_btc"
   },
   "BTC_FCT":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2015-10-05",
     "symbol":"fct_btc"
   },
   "BTC_FLDC":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2015-01-16",
     "symbol":"fldc_btc"
   },
   "BTC_FLO":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2015-03-11",
     "symbol":"flo_btc"
   },
   "BTC_GAME":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-12-22",
     "symbol":"game_btc"
   },
   "BTC_GAS":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2017-09-14",
     "symbol":"gas_btc"
   },
   "BTC_GNO":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2017-05-01",
     "symbol":"gno_btc"
   },
   "BTC_GNT":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2017-02-18",
     "symbol":"gnt_btc"
   },
   "BTC_GRC":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2015-04-26",
     "symbol":"grc_btc"
   },
   "BTC_HUC":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-02-05",
     "symbol":"huc_btc"
   },
   "BTC_LBC":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2016-07-13",
     "symbol":"lbc_btc"
   },
   "BTC_LSK":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2016-05-24",
     "symbol":"lsk_btc"
   },
   "BTC_LTC":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-01-18",
     "symbol":"ltc_btc"
   },
   "BTC_MAID":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-07-09",
     "symbol":"maid_btc"
   },
   "BTC_NAV":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-09-26",
     "symbol":"nav_btc"
   },
   "BTC_NEOS":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-09-09",
     "symbol":"neos_btc"
   },
   "BTC_NMC":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-01-25",
     "symbol":"nmc_btc"
   },
   "BTC_NXC":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2016-12-19",
     "symbol":"nxc_btc"
   },
   "BTC_NXT":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-01-19",
     "symbol":"nxt_btc"
   },
   "BTC_OMG":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2017-09-12",
     "symbol":"omg_btc"
   },
   "BTC_OMNI":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-07-02",
     "symbol":"omni_btc"
   },
   "BTC_PASC":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2017-01-24",
     "symbol":"pasc_btc"
   },
   "BTC_PINK":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-06-06",
     "symbol":"pink_btc"
   },
   "BTC_POT":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2015-08-25",
     "symbol":"pot_btc"
   },
   "BTC_PPC":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-04-08",
     "symbol":"ppc_btc"
   },
   "BTC_RADS":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2016-02-16",
     "symbol":"rads_btc"
   },
   "BTC_REP":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2016-10-04",
     "symbol":"rep_btc"
   },
   "BTC_RIC":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-02-14",
     "symbol":"ric_btc"
   },
   "BTC_SBD":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2016-07-19",
     "symbol":"sbd_btc"
   },
   "BTC_SC":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2015-08-25",
     "symbol":"sc_btc"
   },
   "BTC_STEEM":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2016-07-19",
     "symbol":"steem_btc"
   },
   "BTC_STORJ":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2017-10-27",
     "symbol":"storj_btc"
   },
   "BTC_STR":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-08-11",
     "symbol":"str_btc"
   },
   "BTC_STRAT":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2016-12-19",
     "symbol":"strat_btc"
   },
   "BTC_SYS":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2015-01-09",
     "symbol":"sys_btc"
   },
   "BTC_VIA":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-07-18",
     "symbol":"via_btc"
   },
   "BTC_VRC":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-05-15",
     "symbol":"vrc_btc"
   },
   "BTC_VTC":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-01-28",
     "symbol":"vtc_btc"
   },
   "BTC_XBC":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-04-09",
     "symbol":"xbc_btc"
   },
   "BTC_XCP":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-02-14",
     "symbol":"xcp_btc"
   },
   "BTC_XEM":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2015-03-31",
     "symbol":"xem_btc"
   },
   "BTC_XMR":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-05-19",
     "symbol":"xmr_btc"
   },
   "BTC_XPM":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-01-23",
     "symbol":"xpm_btc"
   },
   "BTC_XRP":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-08-14",
     "symbol":"xrp_btc"
   },
   "BTC_XVC":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2015-03-05",
     "symbol":"xvc_btc"
   },
   "BTC_ZEC":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2016-10-28",
     "symbol":"zec_btc"
   },
   "BTC_ZRX":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2017-08-19",
     "symbol":"zrx_btc"
   },
   "ETH_BCH":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2017-08-14",
     "symbol":"bch_eth"
   },
   "ETH_CVC":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2017-09-10",
     "symbol":"cvc_eth"
   },
   "ETH_ETC":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2016-07-24",
     "symbol":"etc_eth"
   },
   "ETH_GAS":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2017-09-14",
     "symbol":"gas_eth"
   },
   "ETH_GNO":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2017-05-01",
     "symbol":"gno_eth"
   },
   "ETH_GNT":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2017-02-18",
     "symbol":"gnt_eth"
   },
   "ETH_LSK":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2016-06-08",
     "symbol":"lsk_eth"
   },
   "ETH_OMG":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2017-09-12",
     "symbol":"omg_eth"
   },
   "ETH_REP":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2016-10-04",
     "symbol":"rep_eth"
   },
   "ETH_STEEM":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2016-07-19",
     "symbol":"steem_eth"
   },
   "ETH_ZEC":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2016-10-28",
     "symbol":"zec_eth"
   },
   "ETH_ZRX":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2017-08-19",
     "symbol":"zrx_eth"
   },
   "USDT_BCH":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2017-08-14",
     "symbol":"bch_usdt"
   },
   "USDT_BTC":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2015-02-19",
     "symbol":"btc_usdt"
   },
   "USDT_DASH":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2015-02-17",
     "symbol":"dash_usdt"
   },
   "USDT_ETC":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2016-07-28",
     "symbol":"etc_usdt"
   },
   "USDT_ETH":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2015-08-08",
     "symbol":"eth_usdt"
   },
   "USDT_LTC":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2015-03-07",
     "symbol":"ltc_usdt"
   },
   "USDT_NXT":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2015-02-19",
     "symbol":"nxt_usdt"
   },
   "USDT_REP":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2016-10-04",
     "symbol":"rep_usdt"
   },
   "USDT_STR":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2015-03-11",
     "symbol":"str_usdt"
   },
   "USDT_XMR":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2015-02-17",
     "symbol":"xmr_usdt"
   },
   "USDT_XRP":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2015-02-20",
     "symbol":"xrp_usdt"
   },
   "USDT_ZEC":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2016-10-28",
     "symbol":"zec_usdt"
   },
   "XMR_BCN":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-07-23",
     "symbol":"bcn_xmr"
   },
   "XMR_BLK":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-07-29",
     "symbol":"blk_xmr"
   },
   "XMR_BTCD":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-07-27",
     "symbol":"btcd_xmr"
   },
   "XMR_DASH":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-07-23",
     "symbol":"dash_xmr"
   },
   "XMR_LTC":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-07-23",
     "symbol":"ltc_xmr"
   },
   "XMR_MAID":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-07-26",
     "symbol":"maid_xmr"
   },
   "XMR_NXT":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2014-07-24",
     "symbol":"nxt_xmr"
   },
   "XMR_ZEC":{
-    "end_daily":"2018-04-21",
-    "end_minute":"2018-04-21",
+    "end_daily":"2018-04-24",
+    "end_minute":"2018-04-24",
     "start_date":"2016-10-28",
     "symbol":"zec_xmr"
   }
