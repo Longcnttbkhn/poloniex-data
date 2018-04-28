@@ -1,0 +1,1 @@
+{"expectedlen": 1474200, "cparams": {"shuffle": true, "clevel": 5}, "chunklen": 65536, "dtype": "uint64", "dflt": 0}
